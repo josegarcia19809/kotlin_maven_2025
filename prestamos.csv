@@ -1,0 +1,7 @@
+UsuarioId,Edad,Genero,Categoria,Formato,DevueltoEnTiempo
+U001,19,F,Novela,Impreso,Si
+U002,25,M,Ciencia,Ebook,No
+U003,22,F,Historia,Impreso,Si
+U004,31,M,Novela,Ebook,Si
+U005,28,F,Ciencia,Audiolibro,No
+U006,35,M,Infantil,Impreso,Si
