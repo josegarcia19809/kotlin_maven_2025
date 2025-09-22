@@ -145,8 +145,8 @@ fun mostrarPorLetraInicial() {
         .forEach { println("Nombre: ${it.nombre}, causa de muerte: ${it.causaMuerte}") }
 }
 
-// ✅8) Mostrar nombre y causa de muerte de todas las personas en orden ascendente según causa de
-// muerte.
+// ✅8) Mostrar nombre y causa de muerte de todas las personas en orden ascendente según causa
+// de muerte.
 fun mostrarOrdenadoPorCausaDeMuerte() {
     muertes
         .sortedBy { it.causaMuerte }
@@ -213,9 +213,9 @@ fun main() {
     // contarNacionalidades()
     // mostrarNacionalidadesDiferentes()
     // mostrarPorLetraInicial()
-    // mostrarOrdenadoPorCausaDeMuerte()
-    // mostrarPersonaMasJoven()
-    // calcularEdadPromedio()
+//    mostrarOrdenadoPorCausaDeMuerte()
+//     mostrarPersonaMasJoven()
+//     calcularEdadPromedio()
     mostrarCausaMuerteMasComun()
 }
 
